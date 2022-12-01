@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.1",
+  "description": "node.js application to create a team profile",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lacko3006/team-profile-generator.git"
+  },
+  "keywords": [
+    "team-profile-generator"
+  ],
+  "author": "Sam Laxton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lacko3006/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/Lacko3006/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
